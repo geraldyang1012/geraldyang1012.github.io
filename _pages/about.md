@@ -14,13 +14,10 @@ Below you will find my contact information.  You can find more detailed informat
 
 # Contact Information
 
-Shen-Ning Tung \
-Assistant Professor \
-National Tsing Hua University \
-Room 515, General Building III \
-101, Section 2, Kuang-Fu Road\
-Department of Mathematics\
-Room 515\
-``(+886) (03) 571 5131 ext. 33033``\
-``tung (at) math (dot) nthu (dot) edu (dot) tw``
+Jerry Yang \
+Senior Undergraduate Student \
+University of British Columbia \
+Room 011, 6000 Iona Drive \
+``(+1) (778) 387-3999``\
+``jerry.yang@alumni.ubc.ca``
 
